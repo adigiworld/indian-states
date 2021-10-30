@@ -1,0 +1,25 @@
+{
+  "name": "indian-states",
+  "version": "1.0.0",
+  "description": "For all Indian States UT and Capitals",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adigiworld/indian-states.git"
+  },
+  "keywords": [
+    "Indian",
+    "States",
+    "UT",
+    "Capitals"
+  ],
+  "author": "Adil Rasheed <asadigiworld@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adigiworld/indian-states/issues"
+  },
+  "homepage": "https://github.com/adigiworld/indian-states#readme"
+}

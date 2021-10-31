@@ -5,6 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "lint": "eslint .",
+    "watch:test":"mocha --watch",
     "test": "mocha src/index.test.js"
   },
   "devDependencies": {

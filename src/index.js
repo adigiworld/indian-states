@@ -14,9 +14,9 @@
 //   return states;
 // }
 
-import { States, UT } from './IndianStatesUTCapitals.json';
-const allStates = States;
-const allUT = UT;
+const data = require('./IndianStatesUTCapitals.json');
+const allStates = data.States;
+const allUT = data.UT;
 
 const getAllStates = () => {
   const states = [];
@@ -38,4 +38,4 @@ const getAllUT = () => {
   return uts;
 };
 
-export default { getAllStates, getAllUT };
+module.exports = { getAllStates, getAllUT };

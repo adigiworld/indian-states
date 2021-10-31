@@ -14,29 +14,28 @@
 //   return states;
 // }
 
-
-const data = require('./IndianStatesUTCapitals.json');
-const allStates = data.States;
-const allUT = data.UT;
+import { States, UT } from './IndianStatesUTCapitals.json';
+const allStates = States;
+const allUT = UT;
 
 const getAllStates = () => {
-  const states = []
+  const states = [];
   for (let state in allStates) {
     if (Object.hasOwnProperty.call(allStates, state)) {
       states.push(state);
     }
   }
   return states;
-}
+};
 
 const getAllUT = () => {
-  const uts = []
+  const uts = [];
   for (let ut in allUT) {
     if (Object.hasOwnProperty.call(allUT, ut)) {
       uts.push(ut);
     }
   }
   return uts;
-}
+};
 
-module.exports = { getAllStates, getAllUT };
+export default { getAllStates, getAllUT };

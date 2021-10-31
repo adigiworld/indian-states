@@ -1,0 +1,35 @@
+{
+    "env": {
+      "browser": true,
+      "es6": true
+    },
+    "extends": "eslint:recommended",
+    "globals": {
+      "Atomics": "readonly",
+      "SharedArrayBuffer": "readonly"
+    },
+    "parserOptions": {
+      "ecmaVersion": 2020,
+      "sourceType": "module"
+    },
+    "rules": {
+      "brace-style": "warn",
+      "no-unused-vars": "warn",
+      "no-self-compare": "warn",
+      "no-unexpected-multiline": "error",
+      "keyword-spacing": "warn",
+      "arrow-spacing": "warn",
+      "semi": "warn",
+      "space-before-function-paren": [
+        "warn",
+        { "anonymous": "always", "named": "never", "asyncArrow": "always" }
+      ],
+      "space-in-parens": "warn",
+      "array-bracket-spacing": ["warn", "never"],
+      "object-curly-spacing": ["warn", "always"],
+      "newline-per-chained-call": "warn",
+      "no-multiple-empty-lines": ["warn", { "max": 1, "maxEOF": 1 }],
+      "yoda": "warn"
+    }
+  }
+  

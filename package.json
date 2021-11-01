@@ -6,7 +6,8 @@
   "scripts": {
     "lint": "eslint .",
     "watch:test":"mocha --watch",
-    "test": "nyc mocha src/index.test.js"
+    "test": "nyc mocha src/index.test.js",
+    "validate":"npm run lint && npm run test"
   },
   "devDependencies": {
     "chai": "4.3.4",
@@ -25,6 +26,11 @@
       "text","lcov"
     ],
     "include":["src"]
+  },
+  "config": {
+    "ghooks":{
+      "pre-commit":"npm run validate"
+    }
   },
   "repository": {
     "type": "git",

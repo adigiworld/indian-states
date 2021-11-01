@@ -5,31 +5,34 @@
   "main": "src/index.js",
   "scripts": {
     "lint": "eslint .",
-    "watch:test":"mocha --watch",
+    "watch:test": "mocha --watch",
     "test": "nyc mocha src/index.test.js",
-    "validate":"npm run lint && npm run test"
+    "validate": "npm run lint && npm run test"
   },
   "devDependencies": {
     "chai": "4.3.4",
-    "eslint": "7.32.0",
+    "eslint": "8.1.0",
     "istanbul": "0.4.5",
     "mocha": "9.0.3",
     "nyc": "15.1.0"
   },
-  "nyc":{
-    "check-coverage":true,
-    "branches":100,
-    "functions":100,
-    "lines":100,
-    "statements":100,
-    "reporter":[
-      "text","lcov"
+  "nyc": {
+    "check-coverage": true,
+    "branches": 100,
+    "functions": 100,
+    "lines": 100,
+    "statements": 100,
+    "reporter": [
+      "text",
+      "lcov"
     ],
-    "include":["src"]
+    "include": [
+      "src"
+    ]
   },
   "config": {
-    "ghooks":{
-      "pre-commit":"npm run validate"
+    "ghooks": {
+      "pre-commit": "npm run validate"
     }
   },
   "repository": {

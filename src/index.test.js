@@ -1,6 +1,6 @@
-const expect = require('chai').expect;
-const { describe, it } = require('mocha');
-const { getAllStates, getAllUT } = require('./index');
+import { expect } from 'chai';
+import { describe, it } from 'mocha';
+import { getAllStates, getAllUT } from './index';
 
 describe('Indian States', () => {
 

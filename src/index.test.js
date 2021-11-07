@@ -4,10 +4,6 @@ import { getAllStates, getAllUT } from './index';
 
 describe('Indian States', () => {
 
-  it('Should work', () => {
-    expect(true).to.be.true;
-  });
-
   it('Should have a list of all States', () => {
     expect(isArrayOfStrings(getAllStates())).to.be.true;
   });

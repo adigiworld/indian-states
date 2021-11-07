@@ -1,186 +1,213 @@
 {
-  "States":{
-    "Andhra Pradesh":{
-      "AdministrativeCapital":"Visakhapatnam",
-      "LegislativeCapital":"Amaravati",
-      "JudicialCapital":"Kurnool"
+  "States": {
+    "Andhra Pradesh": {
+      "AdministrativeCapital": "Visakhapatnam",
+      "LegislativeCapital": "Amaravati",
+      "JudicialCapital": "Kurnool"
     },
-    "Arunachal Pradesh":{
-      "AdministrativeCapital":"Itanagar",
-      "LegislativeCapital":"Itanagar",
-      "JudicialCapital":"Guwahati"
+    "Arunachal Pradesh": {
+      "AdministrativeCapital": "Itanagar",
+      "LegislativeCapital": "Itanagar",
+      "JudicialCapital": "Guwahati"
     },
-    "Assam":{
-      "AdministrativeCapital":"Dispur",
-      "LegislativeCapital":"Dispur",
-      "JudicialCapital":"Guwahati"
+    "Assam": {
+      "AdministrativeCapital": "Dispur",
+      "LegislativeCapital": "Dispur",
+      "JudicialCapital": "Guwahati"
     },
-    "Bihar":{
-      "AdministrativeCapital":"Patna",
-      "LegislativeCapital":"Patna",
-      "JudicialCapital":"Patna"
+    "Bihar": {
+      "AdministrativeCapital": "Patna",
+      "LegislativeCapital": "Patna",
+      "JudicialCapital": "Patna"
     },
-    "Chhattisgarh":{
-      "AdministrativeCapital":"Naya Raipur",
-      "LegislativeCapital":"Raipur",
-      "JudicialCapital":"Bilaspur"
+    "Chhattisgarh": {
+      "AdministrativeCapital": "Naya Raipur",
+      "LegislativeCapital": "Raipur",
+      "JudicialCapital": "Bilaspur"
     },
-    "Goa":{
-      "AdministrativeCapital":"Panaji",
-      "LegislativeCapital":"Porvorim",
-      "JudicialCapital":"Mumbai"
+    "Goa": {
+      "AdministrativeCapital": "Panaji",
+      "LegislativeCapital": "Porvorim",
+      "JudicialCapital": "Mumbai"
     },
-    "Gujarat":{
-      "AdministrativeCapital":"Gandhinagar",
-      "LegislativeCapital":"Gandhinagar",
-      "JudicialCapital":"Ahmedabad"
+    "Gujarat": {
+      "AdministrativeCapital": "Gandhinagar",
+      "LegislativeCapital": "Gandhinagar",
+      "JudicialCapital": "Ahmedabad"
     },
-    "Haryana":{
-      "AdministrativeCapital":"Chandigarh",
-      "LegislativeCapital":"Chandigarh",
-      "JudicialCapital":"Chandigarh"
+    "Haryana": {
+      "AdministrativeCapital": "Chandigarh",
+      "LegislativeCapital": "Chandigarh",
+      "JudicialCapital": "Chandigarh"
     },
-    "Himachal Pradesh":{
-      "AdministrativeCapital":"Shimla",
-      "LegislativeCapital":{"Summer":"Shimla","Winter":"Dharamsala"},
-      "JudicialCapital":"Shimla"
+    "Himachal Pradesh": {
+      "AdministrativeCapital": "Shimla",
+      "LegislativeCapital": {
+        "Summer": "Shimla",
+        "Winter": "Dharamsala"
+      },
+      "JudicialCapital": "Shimla"
     },
-    "Jharkhand":{
-      "AdministrativeCapital":"Ranchi",
-      "LegislativeCapital":"Ranchi",
-      "JudicialCapital":"Ranchi"
+    "Jharkhand": {
+      "AdministrativeCapital": "Ranchi",
+      "LegislativeCapital": "Ranchi",
+      "JudicialCapital": "Ranchi"
     },
-    "Karnataka":{
-      "AdministrativeCapital":"Bengaluru",
-      "LegislativeCapital":"Bengaluru",
-      "JudicialCapital":"Bengaluru"
+    "Karnataka": {
+      "AdministrativeCapital": "Bengaluru",
+      "LegislativeCapital": "Bengaluru",
+      "JudicialCapital": "Bengaluru"
     },
-    "Kerala":{
-      "AdministrativeCapital":"Thiruvananthapuram",
-      "LegislativeCapital":"Thiruvananthapuram",
-      "JudicialCapital":"Ernakulam"
+    "Kerala": {
+      "AdministrativeCapital": "Thiruvananthapuram",
+      "LegislativeCapital": "Thiruvananthapuram",
+      "JudicialCapital": "Ernakulam"
     },
-    "Madhya Pradesh":{
-      "AdministrativeCapital":"Bhopal",
-      "LegislativeCapital":"Bhopal",
-      "JudicialCapital":"Jabalpur"
+    "Madhya Pradesh": {
+      "AdministrativeCapital": "Bhopal",
+      "LegislativeCapital": "Bhopal",
+      "JudicialCapital": "Jabalpur"
     },
-    "Maharashtra":{
-      "AdministrativeCapital":"Mumbai",
-      "LegislativeCapital":{"Summer":"Mumbai","Winter":"Nagpur"},
-      "JudicialCapital":"Mumbai"
+    "Maharashtra": {
+      "AdministrativeCapital": "Mumbai",
+      "LegislativeCapital": {
+        "Summer": "Mumbai",
+        "Winter": "Nagpur"
+      },
+      "JudicialCapital": "Mumbai"
     },
-    "Manipur":{
-      "AdministrativeCapital":"Imphal",
-      "LegislativeCapital":"Imphal",
-      "JudicialCapital":"Imphal"
+    "Manipur": {
+      "AdministrativeCapital": "Imphal",
+      "LegislativeCapital": "Imphal",
+      "JudicialCapital": "Imphal"
     },
-    "Meghalaya":{
-      "AdministrativeCapital":"Shillong",
-      "LegislativeCapital":"Shillong",
-      "JudicialCapital":"Shillong"
+    "Meghalaya": {
+      "AdministrativeCapital": "Shillong",
+      "LegislativeCapital": "Shillong",
+      "JudicialCapital": "Shillong"
     },
-    "Mizoram":{
-      "AdministrativeCapital":"Aizawl",
-      "LegislativeCapital":"Aizawl",
-      "JudicialCapital":"Guwahati"
+    "Mizoram": {
+      "AdministrativeCapital": "Aizawl",
+      "LegislativeCapital": "Aizawl",
+      "JudicialCapital": "Guwahati"
     },
-    "Nagaland":{
-      "AdministrativeCapital":"Kohima",
-      "LegislativeCapital":"Kohima",
-      "JudicialCapital":"Guwahati"
+    "Nagaland": {
+      "AdministrativeCapital": "Kohima",
+      "LegislativeCapital": "Kohima",
+      "JudicialCapital": "Guwahati"
     },
-    "Odisha":{
-      "AdministrativeCapital":"Bhubaneswar",
-      "LegislativeCapital":"Bhubaneswar",
-      "JudicialCapital":"Cuttack"
+    "Odisha": {
+      "AdministrativeCapital": "Bhubaneswar",
+      "LegislativeCapital": "Bhubaneswar",
+      "JudicialCapital": "Cuttack"
     },
-    "Punjab":{
-      "AdministrativeCapital":"Chandigarh",
-      "LegislativeCapital":"Chandigarh",
-      "JudicialCapital":"Chandigarh"
+    "Punjab": {
+      "AdministrativeCapital": "Chandigarh",
+      "LegislativeCapital": "Chandigarh",
+      "JudicialCapital": "Chandigarh"
     },
-    "Rajasthan":{
-      "AdministrativeCapital":"Jaipur",
-      "LegislativeCapital":"Jaipur",
-      "JudicialCapital":"Jodhpur"
+    "Rajasthan": {
+      "AdministrativeCapital": "Jaipur",
+      "LegislativeCapital": "Jaipur",
+      "JudicialCapital": "Jodhpur"
     },
-    "Sikkim":{
-      "AdministrativeCapital":"Gangtok",
-      "LegislativeCapital":"Gangtok",
-      "JudicialCapital":"Gangtok"
+    "Sikkim": {
+      "AdministrativeCapital": "Gangtok",
+      "LegislativeCapital": "Gangtok",
+      "JudicialCapital": "Gangtok"
     },
-    "Tamil Nadu":{
-      "AdministrativeCapital":"Chennai",
-      "LegislativeCapital":"Chennai",
-      "JudicialCapital":"Chennai"
+    "Tamil Nadu": {
+      "AdministrativeCapital": "Chennai",
+      "LegislativeCapital": "Chennai",
+      "JudicialCapital": "Chennai"
     },
-    "Telangana":{
-      "AdministrativeCapital":"Hyderabad",
-      "LegislativeCapital":"Hyderabad",
-      "JudicialCapital":"Hyderabad"
+    "Telangana": {
+      "AdministrativeCapital": "Hyderabad",
+      "LegislativeCapital": "Hyderabad",
+      "JudicialCapital": "Hyderabad"
     },
-    "Tripura":{
-      "AdministrativeCapital":"Agartala",
-      "LegislativeCapital":"Agartala",
-      "JudicialCapital":"Agartala"
+    "Tripura": {
+      "AdministrativeCapital": "Agartala",
+      "LegislativeCapital": "Agartala",
+      "JudicialCapital": "Agartala"
     },
-    "Uttar Pradesh":{
-      "AdministrativeCapital":"Lucknow",
-      "LegislativeCapital":"Lucknow",
-      "JudicialCapital":"Prayagraj"
+    "Uttar Pradesh": {
+      "AdministrativeCapital": "Lucknow",
+      "LegislativeCapital": "Lucknow",
+      "JudicialCapital": "Prayagraj"
     },
-    "Uttarakhand":{
-      "AdministrativeCapital":{"Summer":"Gairsain","Winter":"Dehradun"},
-      "LegislativeCapital":{"Summer":"Gairsain","Winter":"Dehradun"},
-      "JudicialCapital":"Nainital"
+    "Uttarakhand": {
+      "AdministrativeCapital": {
+        "Summer": "Gairsain",
+        "Winter": "Dehradun"
+      },
+      "LegislativeCapital": {
+        "Summer": "Gairsain",
+        "Winter": "Dehradun"
+      },
+      "JudicialCapital": "Nainital"
     },
-    "West Bengal":{
-      "AdministrativeCapital":"Kolkata",
-      "LegislativeCapital":"Kolkata",
-      "JudicialCapital":"Kolkata"
+    "West Bengal": {
+      "AdministrativeCapital": "Kolkata",
+      "LegislativeCapital": "Kolkata",
+      "JudicialCapital": "Kolkata"
     }
   },
-  "UT":{
-    "Andaman and Nicobar":{
-      "AdministrativeCapital":"Port Blair",
-      "LegislativeCapital":null,
-      "JudicialCapital":"Kolkata"
+  "UT": {
+    "Andaman and Nicobar": {
+      "AdministrativeCapital": "Port Blair",
+      "LegislativeCapital": null,
+      "JudicialCapital": "Kolkata"
     },
-    "Chandigarh":{
-      "AdministrativeCapital":"Chandigarh",
-      "LegislativeCapital":null,
-      "JudicialCapital":"Chandigarh"
+    "Chandigarh": {
+      "AdministrativeCapital": "Chandigarh",
+      "LegislativeCapital": null,
+      "JudicialCapital": "Chandigarh"
     },
-    "Dadra and Nagar Haveli and Daman and Diu":{
-      "AdministrativeCapital":"Daman",
-      "LegislativeCapital":null,
-      "JudicialCapital":"Mumbai"
+    "Dadra and Nagar Haveli and Daman and Diu": {
+      "AdministrativeCapital": "Daman",
+      "LegislativeCapital": null,
+      "JudicialCapital": "Mumbai"
     },
-    "Delhi":{
-      "AdministrativeCapital":"New Delhi",
-      "LegislativeCapital":"New Delhi",
-      "JudicialCapital":"New Delhi"
+    "Delhi": {
+      "AdministrativeCapital": "New Delhi",
+      "LegislativeCapital": "New Delhi",
+      "JudicialCapital": "New Delhi"
     },
-    "Jammu and Kashmir":{
-      "AdministrativeCapital":{"Summer":"Srinagar","Winter":"Jammu"},
-      "LegislativeCapital":{"Summer":"Srinagar","Winter":"Jammu"},
-      "JudicialCapital":{"Summer":"Srinagar","Winter":"Jammu"}
+    "Jammu and Kashmir": {
+      "AdministrativeCapital": {
+        "Summer": "Srinagar",
+        "Winter": "Jammu"
+      },
+      "LegislativeCapital": {
+        "Summer": "Srinagar",
+        "Winter": "Jammu"
+      },
+      "JudicialCapital": {
+        "Summer": "Srinagar",
+        "Winter": "Jammu"
+      }
     },
-    "Ladakh":{
-      "AdministrativeCapital":{"Summer":"Leh","Winter":"Kargil"},
-      "LegislativeCapital":null,
-      "JudicialCapital":{"Summer":"Srinagar","Winter":"Jammu"}
+    "Ladakh": {
+      "AdministrativeCapital": {
+        "Summer": "Leh",
+        "Winter": "Kargil"
+      },
+      "LegislativeCapital": null,
+      "JudicialCapital": {
+        "Summer": "Srinagar",
+        "Winter": "Jammu"
+      }
     },
-    "Lakshadweep":{
-      "AdministrativeCapital":"Kavaratti",
-      "LegislativeCapital":null,
-      "JudicialCapital":"Ernakulam"
+    "Lakshadweep": {
+      "AdministrativeCapital": "Kavaratti",
+      "LegislativeCapital": null,
+      "JudicialCapital": "Ernakulam"
     },
-    "Puducherry":{
-      "AdministrativeCapital":"Pondicherry",
-      "LegislativeCapital":"Pondicherry",
-      "JudicialCapital":"Chennai"
+    "Puducherry": {
+      "AdministrativeCapital": "Pondicherry",
+      "LegislativeCapital": "Pondicherry",
+      "JudicialCapital": "Chennai"
     }
   }
 }

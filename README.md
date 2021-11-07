@@ -1,3 +1,3 @@
 # indian-states
 
-A small library to get all Indian states, UT and capitals.
+A small library to get all Indian States, UT and Capitals.

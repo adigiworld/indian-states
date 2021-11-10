@@ -8,7 +8,7 @@ The indian-states library exported as a [UMD](https://github.com/umdjs/umd) modu
 <!-- In a browser:
 
 ```html
-<script src="https://unpkg.com/browse/indian-states@0.1.1/dist/"></script>
+<script src="indian-states.js"></script>
 ``` -->
 
 Using npm:

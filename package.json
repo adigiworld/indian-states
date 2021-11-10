@@ -10,6 +10,7 @@
     "build:umd": "webpack",
     "lint": "eslint src",
     "watch:test": "mocha --watch",
+    "report-coverage": "cat ./coverage/lcov.info | codecov",
     "test": "NODE_ENV=test nyc mocha src/index.test.js",
     "validate": "npm-run-all --parallel test lint build"
   },
@@ -21,6 +22,7 @@
     "babel-loader": "8.2.3",
     "babel-plugin-istanbul": "6.1.1",
     "chai": "4.3.4",
+    "codecov": "3.8.3",
     "cson-loader": "0.1.0",
     "eslint": "8.1.0",
     "istanbul": "0.4.5",

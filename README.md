@@ -5,11 +5,11 @@ The indian-states library exported as a [UMD](https://github.com/umdjs/umd) modu
 
 ## Installation
 
-In a browser:
+<!-- In a browser:
 
 ```html
 <script src="indian-states.js"></script>
-```
+``` -->
 
 Using npm:
 
